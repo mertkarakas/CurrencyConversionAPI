@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "DBC913E4-B28B-46AB-AE1E-3ECEE97A0803",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "CurrencyConversionAPITests",
+        "name" : "CurrencyConversionAPITests"
+      }
+    }
+  ],
+  "version" : 1
+}
